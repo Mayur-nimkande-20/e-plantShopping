@@ -3,7 +3,7 @@
 
 Welcome to **Paradise Nursery**, your ultimate destination for browsing and purchasing beautiful houseplants! This front-end application allows users to seamlessly browse, add to cart, and manage their selections of indoor plants. 🌱
 
-![Paradise Nursery Banner](./assets/banner-image.jpg)
+![Paradise Nursery Banner](./assets/banner.jpg)
 
 ---
 
@@ -83,13 +83,13 @@ The project involved various tasks to create a cohesive shopping experience, inc
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./assets/landing-page.png)
+![Landing Page](./assets/banner.png)
 
 ### Product Listing Page
-![Product Listing](./assets/product-listing.png)
+![Product Listing](./assets/plant_list.png)
 
 ### Cart Page
-![Cart Page](./assets/cart-page.png)
+![Cart Page](./assets/cart.png)
 
 ## 📈 Future Enhancements
 
